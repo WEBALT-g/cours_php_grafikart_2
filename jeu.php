@@ -1,4 +1,9 @@
 <?php
+$title = "Jeu";
+$nav = 'jeu';
+?>
+
+<?php
 // Checkbox
 $parfums = [
     'Fraise' => 4,
